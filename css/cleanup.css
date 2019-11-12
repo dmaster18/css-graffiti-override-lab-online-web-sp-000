@@ -29,12 +29,12 @@ body #wall #tag-2 { /* 201 */
 
 
 
-#wall .parent div:last-child div#tag-6 { 
+#wall .parent #tag-6 { 
   display: none;
 }
 
 
 
-body div#wall div.parent div > div#tag-7.slick { 
+#wall .parent > #tag-7.slick { 
   display: none;
 }
